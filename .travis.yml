@@ -11,3 +11,5 @@ notifications:
   email: false
 script:
   - npm run validate
+after_succes:
+  -npm run report-coverage
