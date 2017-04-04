@@ -1,3 +1,3 @@
-# starwars-names
+# alien-names
 
-For all your random Star Wars character needs
+For all your random Alien movie character needs

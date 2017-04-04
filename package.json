@@ -1,7 +1,7 @@
 {
-  "name": "starwars-names",
+  "name": "alien-names",
   "version": "1.0.0",
-  "description": "Get random Star Wars names",
+  "description": "Get a random names for the movie Alien",
   "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",
@@ -16,21 +16,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/starwars-names.git"
+    "url": "git+https://github.com/geordanex/alien-names.git"
   },
   "keywords": [
     "random",
-    "star wars"
+    "alien"
   ],
   "files": [
     "dist"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Geordan O. Sanchez <geordan62@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kentcdodds/starwars-names/issues"
+    "url": "https://github.com/geordanex/alien-names/issues"
   },
-  "homepage": "https://github.com/kentcdodds/starwars-names#readme",
+  "homepage": "https://github.com/geordanex/alien-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
